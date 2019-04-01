@@ -54,7 +54,7 @@ a:hover {
 }
 
 .box-shadow,
-.paralax-mf,
+.paralax-ali,
 .service-box,
 .work-box,
 .card-blog {
@@ -92,11 +92,11 @@ a:hover {
   background-position: center center;
 }
 
-.overlay-mf {
+.overlay-ali {
   background-color: #0078ff;
 }
 
-.overlay-mf {
+.overlay-ali {
   position: absolute;
   top: 0;
   left: 0px;
@@ -106,7 +106,7 @@ a:hover {
   opacity: .7;
 }
 
-.paralax-mf {
+.paralax-ali {
   position: relative;
   padding: 8rem 0;
 }
@@ -160,7 +160,7 @@ a:hover {
   color: #4e4e4e;
 }
 
-.line-mf {
+.line-ali {
   width: 40px;
   height: 5px;
   background-color: #0078ff;
@@ -300,12 +300,12 @@ a:hover {
 
 /*--/ Scrolltop s /--*/
 
-.scrolltop-mf {
+.scrolltop-ali {
   position: relative;
   display: none;
 }
 
-.scrolltop-mf span {
+.scrolltop-ali span {
   z-index: 999;
   position: fixed;
   width: 42px;
@@ -674,31 +674,31 @@ a:hover {
 //--//-->   ABOUT
 ======================================*/
 
-.about-mf .box-shadow-full {
+.about-ali .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
 
-.about-mf .about-img {
+.about-ali .about-img {
   margin-bottom: 2rem;
 }
 
-.about-mf .about-img img {
+.about-ali .about-img img {
   margin-left: 10px;
 }
 
-.skill-mf span {
+.skill-ali span {
   color: #4e4e4e;
 }
 
-.skill-mf .progress {
+.skill-ali .progress {
   background-color: #cde1f8;
   margin: .5rem 0 1.2rem 0;
   border-radius: 0;
   height: .7rem;
 }
 
-.skill-mf .progress .progress-bar {
+.skill-ali .progress .progress-bar {
   height: .7rem;
   background-color: #0078ff;
 }
@@ -1064,7 +1064,7 @@ a:hover {
   padding: 4rem 0 0 0;
 }
 
-.contact-mf {
+.contact-ali {
   margin-top: 4rem;
 }
 
@@ -1187,7 +1187,7 @@ footer .credits a {
 }
 
 @media (min-width: 767px) {
-  .about-mf .box-pl2 {
+  .about-ali .box-pl2 {
     margin-top: 3rem;
     padding-left: 0rem;
   }
@@ -1196,7 +1196,7 @@ footer .credits a {
     margin-bottom: 3rem;
   }
 
-  .contact-mf .box-pl2 {
+  .contact-ali .box-pl2 {
     margin-top: 3rem;
     padding-left: 0rem;
   }
