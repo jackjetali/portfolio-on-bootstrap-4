@@ -32,7 +32,7 @@
   });
 
 	/*--/ Star ScrollTop /--*/
-	$('.scrolltop-mf').on("click", function () {
+	$('.scrolltop-ali').on("click", function () {
 		$('html, body').animate({
 			scrollTop: 0
 		}, 1000);
@@ -83,9 +83,9 @@
 			$('.navbar-expand-md').removeClass('navbar-reduce');
 		}
 		if ($(window).scrollTop() > top) {
-			$('.scrolltop-mf').fadeIn(1000, "easeInOutExpo");
+			$('.scrolltop-ali').fadeIn(1000, "easeInOutExpo");
 		} else {
-			$('.scrolltop-mf').fadeOut(1000, "easeInOutExpo");
+			$('.scrolltop-ali').fadeOut(1000, "easeInOutExpo");
 		}
 	});
 
@@ -102,7 +102,7 @@
 	}
 
 	/*--/ Testimonials owl /--*/
-	$('#testimonial-mf').owlCarousel({
+	$('#testimonial-ali').owlCarousel({
 		margin: 20,
 		autoplay: true,
 		autoplayTimeout: 4000,
