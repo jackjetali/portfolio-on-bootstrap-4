@@ -1105,13 +1105,14 @@ footer .credits a {
 }
 
 #errormessage {
-  color: red;
+  color: white;
   display: none;
   border: 1px solid red;
   text-align: center;
   padding: 15px;
   font-weight: 600;
   margin-bottom: 15px;
+  position: absolute;
 }
 
 #sendmessage.show,
