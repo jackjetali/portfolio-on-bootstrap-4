@@ -1107,7 +1107,7 @@ footer .credits a {
 #errormessage {
   color: white;
   display: none;
-  border: 1px solid red;
+  border: 1px solid white;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1118,7 +1118,7 @@ footer .credits a {
 #sendmessage.show,
 #errormessage.show,
 .show {
-  display: inline-block;
+  display: inherit;
 }
 
 .validation {
