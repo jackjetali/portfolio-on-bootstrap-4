@@ -1114,11 +1114,11 @@ footer .credits a {
   margin-bottom: 15px;
 }
 
-#sendmessage.show,
+/*#sendmessage.show,
 #errormessage.show,
 .show {
-  display: block;
-}
+  display: none;
+}*/
 
 .validation {
   color: red;
