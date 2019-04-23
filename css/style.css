@@ -1105,9 +1105,9 @@ footer .credits a {
 }
 
 #errormessage {
-  color: white;
+  color: white !important;
   display: none;
-  border: 1px solid white;
+  border: 1px solid white !important;
   text-align: center;
   padding: 15px;
   font-weight: 600;
