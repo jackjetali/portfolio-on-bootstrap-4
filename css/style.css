@@ -17,7 +17,7 @@ h6 {
   color: #1e1e1e;
 }
 .fixed-top{
-  top: -6px;
+  /* top: -6px; */
   margin: -25px 0px;
 }
 .bg-dark{
@@ -212,6 +212,30 @@ a:hover {
   display: inline-block;
 }
 
+/* socila on navbar */
+
+ /* .ico-circle-nav {
+  height: 40px;
+  width: 40px;
+  font-size: 1.7rem;
+  border-radius: 50%;
+  line-height: 1.4;
+  margin: 0 15px 0 0;
+  box-shadow: 0 0 0 3px #0078ff;
+  transition: all 500ms ease;
+} */
+
+.ico-circle-nav:hover {
+  background-color: #0078ff;
+  color: #fff;
+  box-shadow: 0 0 0 3px #cde1f8;
+  transition: all 500ms ease;
+}
+
+
+
+
+/* social at the bottom  */
 .socials .ico-circle {
   height: 40px;
   width: 40px;
