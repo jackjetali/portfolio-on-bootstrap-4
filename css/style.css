@@ -504,7 +504,7 @@ a:hover {
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
   background-color: #fff;
-  padding-top: 15px;
+  padding-top: 20px;
   padding-bottom: 0px;
 }
 
@@ -571,7 +571,7 @@ a:hover {
 
 /* navbar mobile phone */
 .nav-item .nav-text{
-  color: rgba(231, 221, 221, 0.905);
+  color: rgb(144 135 135 / 91%);
 }
 .nav-item .nav-phone{
   color: #3c97ff;
@@ -907,6 +907,15 @@ a:hover {
   margin: 0 auto;
   border-radius: 50%;
   line-height: 1.6;
+}
+
+.testi_head{
+  padding-top: 20px;
+  margin: auto;
+  font-family: 'Open Sans',sans-serif;
+  font-size: 16px;
+  line-height: 3.5;
+  color: #333;
 }
 
 /*======================================
