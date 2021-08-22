@@ -709,7 +709,9 @@ a:hover {
 .intro .at-top{
   background-color: rgba(255, 255, 255, 0.858);
   margin: auto;
-  width: fit-content;
+  width: 35px;
+  -moz-width: 50px;
+  -webkit-width: 50px;
   padding: 5px;
   border-radius: 7px;
 }
