@@ -1142,9 +1142,12 @@ footer .credits {
   margin-bottom: 0;
 }
 
-footer .credits a {
+footer a {
   color: rgba(77, 76, 76, 0.966);
+  text-decoration: underline;
+
 }
+
 
 /*======================================
 //--//-->   CONtaCT FORM
