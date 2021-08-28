@@ -1,2 +1,2 @@
-# portfolio-on-bootstrap-4
-here i developed my website portfolio on Bootstrap4
+# portfolio website
+here i developed my website portfolio hosted on Netlify
